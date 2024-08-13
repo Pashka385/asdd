@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/asdd/static/css/main.9ea42667.css",
+    "main.js": "/asdd/static/js/main.ff2e3e48.js",
+    "static/js/453.a6a97343.chunk.js": "/asdd/static/js/453.a6a97343.chunk.js",
+    "static/media/ull.png": "/asdd/static/media/ull.fbf9bce9fe637ccafa1d.png",
+    "static/media/2.png": "/asdd/static/media/2.2e5f90d649b994b5e76d.png",
+    "static/media/1.png": "/asdd/static/media/1.704cf9846911e1c79a6f.png",
+    "static/media/i1.svg": "/asdd/static/media/i1.47631bb3e4516cbfefd0d377f350655a.svg",
+    "static/media/t1.svg": "/asdd/static/media/t1.e227dfb2e496323c48b1d675a8a000a6.svg",
+    "index.html": "/asdd/index.html",
+    "static/media/f1.svg": "/asdd/static/media/f1.66cce5700e69823a25b8387c00482155.svg",
+    "main.9ea42667.css.map": "/asdd/static/css/main.9ea42667.css.map",
+    "main.ff2e3e48.js.map": "/asdd/static/js/main.ff2e3e48.js.map",
+    "453.a6a97343.chunk.js.map": "/asdd/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ea42667.css",
+    "static/js/main.ff2e3e48.js"
+  ]
+}
